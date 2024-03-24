@@ -6,7 +6,7 @@
     "allowInbox": true,
     "autoClean": false,
     "commandDisabled": [],
-    "eventDisabled": [],
+    "eventDisabled": [], 
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
